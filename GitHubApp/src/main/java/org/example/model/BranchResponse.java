@@ -12,5 +12,5 @@ import lombok.Setter;
 public class BranchResponse {
     private String name;
     private String lastCommit;
-    
+
 }
